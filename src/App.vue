@@ -45,7 +45,7 @@ import InteresesComponente from './components/InteresesComponente.vue';
     </main>
     <footer>
         <a href="#top">Inicio</a>
-        <p>© Sat Emir Bayona Nair</p>
+        <p>© Lautaro Ponzina</p>
     </footer>
 </template>
 
